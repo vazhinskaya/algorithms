@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\anastasiya\source\repos\project11\project11\source.cpp(34): error C2086: int *a: переопределение
+  c:\users\anastasiya\source\repos\project11\project11\source.cpp(32): note:  см. объявление "a"
+c:\users\anastasiya\source\repos\project11\project11\source.cpp(47): error C2086: int *a: переопределение
+  c:\users\anastasiya\source\repos\project11\project11\source.cpp(32): note:  см. объявление "a"

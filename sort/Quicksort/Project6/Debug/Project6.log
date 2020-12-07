@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\anastasiya\source\repos\project6\project6\source.cpp(10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\anastasiya\source\repos\project6\project6\source.cpp(23): error C2374: i: переопределение; множественная инициализация
+  c:\users\anastasiya\source\repos\project6\project6\source.cpp(13): note:  см. объявление "i"
+c:\users\anastasiya\source\repos\project6\project6\source.cpp(23): error C2374: j: переопределение; множественная инициализация
+  c:\users\anastasiya\source\repos\project6\project6\source.cpp(13): note:  см. объявление "j"
+c:\users\anastasiya\source\repos\project6\project6\source.cpp(24): error C2086: int tmp: переопределение
+  c:\users\anastasiya\source\repos\project6\project6\source.cpp(14): note:  см. объявление "tmp"
+c:\users\anastasiya\source\repos\project6\project6\source.cpp(25): error C2374: pivot: переопределение; множественная инициализация
+  c:\users\anastasiya\source\repos\project6\project6\source.cpp(15): note:  см. объявление "pivot"
